@@ -2,14 +2,13 @@
 /**
  * Plugin Name:       ConnectyCube Chat Widget
  * Plugin URI:        https://connectycube.com
- * Description:       Embed ConnectyCube chat widget on your WordPress site. Configure messaging, presence, calls, and AI features via Settings.
- * Version:           1.0.0
+ * Description:       Embed ConnectyCube chat widget on your WordPress site. Configure chat, presence, calls, and AI features via Settings.
+ * Version:           0.10.0
  * Requires at least: 5.9
  * Requires PHP:      7.4
  * Author:            ConnectyCube
  * Author URI:        https://connectycube.com
- * License:           GPL-2.0-or-later
- * License URI:       https://www.gnu.org/licenses/gpl-2.0.html
+ * License:           Apache 2.0
  * Text Domain:       connectycube-chat-widget
  *
  * @package ConnectyCubeChatWidget
