@@ -15,7 +15,9 @@ WordPress wrapper for the [ConnectyCube Chat Widget](https://developers.connecty
 3. Go to **Settings → ConnectyCube Chat**, enter your **App ID** and **Auth Key**, and configure options as needed. To get **App ID** and **Auth Key** - register new account at https://connectycube.com/signup. Then go to Admin panel, create Application and put Application credentials from 'Overview' page. 
 4. Save. The widget will appear on the frontend according to your display settings (floating button or embedded).
 
-
+<p align="center">
+  <video src="https://github.com/user-attachments/assets/b7d15a16-e350-4946-b568-3fcb66d6dc98"></video>
+</p>
 
 ## Features
 
