@@ -1,25 +1,18 @@
-# CakePHP 3
+# OS
+.DS_Store
+Thumbs.db
 
-/vendor/*
-/config/app.php
+# IDE
+.idea/
+*.sublime-*
 
-/tmp/cache/models/*
-!/tmp/cache/models/empty
-/tmp/cache/persistent/*
-!/tmp/cache/persistent/empty
-/tmp/cache/views/*
-!/tmp/cache/views/empty
-/tmp/sessions/*
-!/tmp/sessions/empty
-/tmp/tests/*
-!/tmp/tests/empty
+# Composer / npm (if added later)
+/vendor/
+node_modules/
+npm-debug.log
+yarn-error.log
 
-/logs/*
-!/logs/empty
-
-# CakePHP 2
-
-/app/tmp/*
-/app/Config/core.php
-/app/Config/database.php
-/vendors/*
+# Build artifacts
+*.log
+.env
+.env.local
