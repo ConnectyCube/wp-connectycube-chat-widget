@@ -10,7 +10,7 @@ WordPress wrapper for the [ConnectyCube Chat Widget](https://developers.connecty
 
 ## Installation
 
-1. Download [ZIP archive of the plugin] (https://github.com/ConnectyCube/wp-connectycube-chat-widget/archive/refs/heads/main.zip)
+1. Download [ZIP archive of the plugin](https://github.com/ConnectyCube/wp-connectycube-chat-widget/archive/refs/heads/main.zip)
 2. In WordPress admin go to **Plugins**, upload the zip and and activate
 3. Go to **Settings → ConnectyCube Chat**, enter your **App ID** and **Auth Key**, and configure options as needed. To get **App ID** and **Auth Key** - register new account at https://connectycube.com/signup. Then go to Admin panel, create Application and put Application credentials from 'Overview' page. 
 4. Save. The widget will appear on the frontend according to your display settings (floating button or embedded).
