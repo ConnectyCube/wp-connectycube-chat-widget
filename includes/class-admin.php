@@ -327,7 +327,7 @@ final class Admin {
 			'disable_esc_key_press'       => false,
 			'show_chat_status'            => false,
 			'show_chat_actions_as_menu'   => true,
-			'img_logo_source'             => '/logo.png',
+			'img_logo_source'             => '',
 			'show_online_users_tab'       => false,
 			'hide_new_chat_button'        => false,
 			'hide_new_user_chat_option'   => false,

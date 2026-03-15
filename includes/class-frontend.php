@@ -39,7 +39,8 @@ final class Frontend {
 		}
 
 		$react_ver = '18';
-		$widget_ver = 'latest';
+		$connectycube_ver = '6.1.2';
+		$widget_ver = '0.43.0';
 
 		wp_enqueue_script(
 			'react',
@@ -61,9 +62,9 @@ final class Frontend {
 
 		wp_enqueue_script(
 			'connectycube',
-			'https://unpkg.com/connectycube@4/dist/connectycube.min.js',
+			"https://unpkg.com/connectycube@{$connectycube_ver}/dist/connectycube.min.js",
 			[],
-			'4',
+			$connectycube_ver,
 			true
 		);
 
